@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Electrical Engineering (Power Systems) | Energy Data Analyst | Team Mentor | Aspiring Energy Data Scientist"
   location         : "Pakistan/Austria"
-  employer         : "Associate Professor at <br> Pak-Austria Fachhochschule <a style='color: black;' href='https://paf-iast.edu.pk'> <br> Sino-Pak Center for Artificial Intelligence</a> & <a style='color: black;' href='spcai.paf-iast.edu.pk'"
+  employer         : "Associate Professor at <br> Pak-Austria Fachhochschule <href='https://paf-iast.edu.pk'> <br> Sino-Pak Center for Artificial Intelligence <href='spcai.paf-iast.edu.pk'>"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en"
   email            : "sohail.khan@gmx.net"
