@@ -85,7 +85,7 @@ author:
   bio              : "PhD Electrical Engineering (Power Systems) | Energy Data Analyst | Team Mentor | Aspiring Energy Data Scientist"
   location         : "Pakistan/Austria"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en"
   email            : "sohail.khan@gmx.net"
   researchgate     : "https://www.researchgate.net/profile/Dr-Sohail-Khan"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://emesk.github.io/"
+  github           : "emesk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sohail-khan/"
+  linkedin         : "sohail-khan"
   orcid            : "https://orcid.org/0000-0001-7153-7209"
   pinterest        :
   soundcloud       :
