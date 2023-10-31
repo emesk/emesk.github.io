@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Sohail Khan"
+  avatar           : "avatar.jpg"
+  bio              : "PhD Electrical Engineering (Power Systems) | Energy Data Analyst | Team Mentor | Aspiring Energy Data Scientist"
+  location         : "Pakistan/Austria"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en"
+  email            : "sohail.khan@gmx.net"
+  researchgate     : "https://www.researchgate.net/profile/Dr-Sohail-Khan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://emesk.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sohail-khan/"
+  orcid            : "https://orcid.org/0000-0001-7153-7209"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sohail_khan_dr"
   vine             :
   weibo            :
   xing             :
