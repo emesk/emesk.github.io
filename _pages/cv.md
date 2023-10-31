@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-<!DOCTYPE html>
 <html>
   <head>
     <style>
