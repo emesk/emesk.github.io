@@ -16,13 +16,9 @@ Throughout the course, students will explore how AI serves as a pivotal technolo
 Recommended Readings:
 
 Data Analytics for Intelligent Transportation Systems by Mashrur Chowdhury & Amy Apon Kakan Dey, 2017 ISBN: 9780128097151, Elsevier Publisher
+
 Introduction to Intelligent Systems in Traffic and Transportation, 2013 by Ana L.C. Bazzan , Franziska Klügl, ISBN-10 : 1627052070
 
-Heading 1
+Files
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+https://1drv.ms/f/s!AqGZ8u0GrMs_rCXIBAniW2vH1Stu?e=4JvsQe
