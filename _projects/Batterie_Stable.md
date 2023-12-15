@@ -1,10 +1,11 @@
 ---
 title: "Batterie Stable (National project, Austria)"
 collection: projects
+---
+
 Year: 2016-2018
 Institute:  AIT Austrian Institute of Technology 
 Project Link: https://www.ait.ac.at/en/research-topics/smart-grids/projects/batteriestabil/
----
 
 Description:
 ======
