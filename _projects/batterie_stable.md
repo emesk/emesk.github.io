@@ -2,14 +2,14 @@
 title: "Batterie Stable (National project, Austria)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /projects/Project1
+permalink: /projects/batterie_stable
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
 location: "Haripur, Pakistan"
 ---
 
 Year: 2016-2018
-Institute:  AIT Austrian Institute of Technology 
-Project Link: https://www.ait.ac.at/en/research-topics/smart-grids/projects/batteriestabil/
+
+Institute:  AIT Austrian Institute of Technology
 
 Description:
 ======
@@ -26,3 +26,7 @@ Performed software-based analysis on how fast the inverters providing virtual in
 Together with team I contributed in developing competences of simulating the impact of large scale inverter-based generation supplying virtual inertia on the stability of the grid.
 
 Results published in a high impact journal 
+
+Project Link:
+======
+Link: https://www.ait.ac.at/en/research-topics/smart-grids/projects/batteriestabil/
