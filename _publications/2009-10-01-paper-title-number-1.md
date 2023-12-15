@@ -1,15 +1,15 @@
 ---
-title: "A Replicator Dynamics method for the Unit Commitment problem"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A Replicator Dynamics method for the Unit Commitment problem'
-date: 2014-1-4
-venue: 'IEEE, Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES)'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Khan, S., Bosetti, H., Palensky, P., Gawlik, W. A Replicator Dynamics method for the Unit Commitment problem. In 2014 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES) (pp. 1-4). IEEE.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-A Replicator Dynamics method for the Unit Commitment problem
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Khan, S., Bosetti, H., Palensky, P., Gawlik, W. (2014, April). A Replicator Dynamics method for the Unit Commitment problem. In 2014 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES) (pp. 1-4). IEEE.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
