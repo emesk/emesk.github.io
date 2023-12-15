@@ -1,5 +1,5 @@
 ---
-title: "RSE-871 Artificial Intelligence in Railways"
+title: "Batterie Stable (National project, Austria)"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-fall-Artificial Intelligence in Railways
