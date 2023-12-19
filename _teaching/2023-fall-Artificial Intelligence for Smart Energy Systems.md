@@ -9,8 +9,6 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
-======
-
 This course aims teach you how to digitalize the 'conventional' energy system and which digital technologies plays a key role. The digitized grid operations then open ways of the application of AI, machine learning, blockchain and computer simulations. The objective of this transformation is to make the energy system sustainable, affordable, available, and secure. This course teaches about the opportunities of a digital grid and the various digital technologies to achieve this. The course consists of an introductory and four-course content modules, each touching upon a different facet of the digital transformation and application of artificial intelligence in the energy system:
 •	The Digital Transformation of the Energy System
 •	Computational Methods for Energy Networks

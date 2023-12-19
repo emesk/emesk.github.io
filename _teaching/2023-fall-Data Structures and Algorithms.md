@@ -9,7 +9,6 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
-======
 Data structures and algorithms is one of the core courses in computing and focuses on efficient storage of data in memory to facilitate their subsequent processing. It mainly covers elementary data structures and associated  algorithms to manipulate them. Topics include lists, stacks, queues, arrays, trees, graphs, sorting and searching. This course offers the students a mixture of theoretical knowledge and practical experience. This includes sequential storage (lists, queues, and stacks), hierarchical storage (trees), and association/adjacency storage (graphs). Students will also become familiar with algorithm analysis and design techniques.
 
 Course Objectives:
