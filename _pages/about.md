@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Power System Enthusiast with Passion for AI"
-excerpt: "Power System Enthusiast with Passion for AI"
+title: "Power System Profession with PhD in Electrical Engineering (Specialization in Power Systems) | Data Scientist and Algorithm Developer in Knowledge Engineering and Machine Learning"
+
+excerpt: "Power System Profession with PhD in Electrical Engineering (Specialization in Power Systems) | Data Scientist and Algorithm Developer in Knowledge Engineering and Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/

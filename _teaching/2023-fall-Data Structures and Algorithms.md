@@ -78,6 +78,3 @@ Reference Books:
 1.	Data Structures and Algorithms in C++, 4th Edition, Adam Drozdek, 2013 Cengage Learning
 2.	Data Structures and Algorithms in Python, 1st Edition, Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser, 2013, Wiley Publishing, ISBN:978-1-118-29027-9
 
-Files
-======
-https://1drv.ms/f/s!AqGZ8u0GrMs_gf5OLIS8sjLlyQkneg?e=eDywes

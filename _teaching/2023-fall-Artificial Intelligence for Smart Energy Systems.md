@@ -23,7 +23,3 @@ In this course, students will learn:
 •	To compare the different model types used for numerical simulations of energy systems and evaluate the influence of individual parameters and system models on the simulation performance.
 •	To explain the different objectives of decision-making in energy systems, and the influence of different units and their properties on the decision making.
 •	To apply and evaluate machine learning methods for prediction and control in energy systems
-
-Files
-======
-https://1drv.ms/f/s!AqGZ8u0GrMs_oDHW0xhgMkEIgk4h?e=0j5amC
