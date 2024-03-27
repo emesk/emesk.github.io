@@ -1,8 +1,7 @@
 ---
 permalink: /
-title: "Power System Profession with PhD in Electrical Engineering (Specialization in Power Systems) | Data Scientist and Algorithm Developer in Knowledge Engineering and Machine Learning"
-
-excerpt: "Power System Profession with PhD in Electrical Engineering (Specialization in Power Systems) | Data Scientist and Algorithm Developer in Knowledge Engineering and Machine Learning"
+title: "Power System Enthusiast with Passion for AI"
+excerpt: "Power System Enthusiast with Passion for AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +15,8 @@ Accomplished power system professional with 13 years of expertise in energy syst
 Since 2022, I have led the academic and organizational activities at Sino-Pak Center for Artificial Intelligence at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology.  I have been actively working on using AI for energy forecasting, machine learning for dealing with the uncertainty in energy systems and cross-cutting applications using AI for decision support in urban planning, agriculture, transport, and security related areas.
 
 [Google Scholar](https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en)
+
+[Calendar](https://bit.ly/3ykwDyC)
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

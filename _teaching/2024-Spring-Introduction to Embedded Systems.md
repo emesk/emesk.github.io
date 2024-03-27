@@ -9,11 +9,12 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
-
+======
 Introduction to Embedded Systems, General Purpose vs. Embedded Computing, Multicore processors, Components of Embedded System, Microprocessors vs. Microcontrollers, Processor Architecture, Neumann vs. Harvard, RISC vs CISC. Memory, Registers, Cache, RAM, SRAM, DRAM, ROM, PROM, EEPROM, FLASH. Introduction to AVR microcontroller, ATMEGA328P architecture and features, Internal Registers, Memory, ATMEGA328P Instruction Set. Machine code, Addressing modes and Instruction Set, I/O Programming, Arithmetic and Logical Instructions, Branching Instructions, Generating Delays, Interrupt handling, Timers, PWM using Timers, DC motor interface, Communication Ports programming, UART Bluetooth Module Interface, AT Commands, ADC, Successive Approximation ADC, Temperature Sensor, Keypad & LCD Interface, Revision of selected topics.
 
 
 The course follows the following schedule:
+======
 Week 1	Introduction to Embedded Systems, Processors vs. Microcontroller, Processors Architecture
 Week 2	Memory in Embedded Systems
 Week 3	Introduction to AVR microcontrollers

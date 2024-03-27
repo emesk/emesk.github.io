@@ -9,11 +9,12 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
-
+======
 Knowledge engineering is the science of solving problems by applying human knowledge on the facts and then using reasoning to reach a conclusion. The facts are based on data which needs to be transferred to a database to apply human-like reasoning. Typically, an AI problem has a solution based on human interpretation of the problem. Knowledge engineering is the process of imitating how a human expert in a specific domain would act and make decisions. In this course, a student will learn how to use human knowledge in AI to solve real life problems.
 
 
 The course follows the following schedule:
+======
 Week 1 Introduction to Knowledge Engineering
 Week 2 Knowledge Acquisition and Representation
 Week 3 Environments, Languages and Methodologies 

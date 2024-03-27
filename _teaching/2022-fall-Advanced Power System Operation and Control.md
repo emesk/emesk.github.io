@@ -9,16 +9,20 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
+======
+
 This course deals with different aspects of power system operation; monitoring and control with a view to 
 enrich knowledge of students in this important area of power engineering 
 
 Course Objectives:
+======
 Characteristics of power generation units, economic dispatch with and without taking into account 
 transmission loss, unit commitment, introduction to power system control and its importance, control of 
 generation, voltage and frequency control, SCADA systems and its application to the power system 
 operation and control, and system operation in deregulation environment.    
 
 Week 1 
+======
 Introduction to the course, Mathematical Basis for Optimization, Linear and nonlinear Systems, 
 Convex and non-convex optimization problems 
 Week 2  Unit commitment in power systems: Fuel consumption, Characteristics of thermal unit, Incremental 
