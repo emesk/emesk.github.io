@@ -9,8 +9,6 @@ location: "Haripur, Pakistan"
 ---
 
 Course Description:
-======
-
 This course deals with different aspects of power system operation; monitoring and control with a view to 
 enrich knowledge of students in this important area of power engineering 
 
