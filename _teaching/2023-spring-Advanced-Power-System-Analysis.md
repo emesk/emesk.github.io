@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-spring-Advanced-Power-System-Analysis
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
-date: 2022-10-01
+date: 2022-08-01
 location: "Haripur, Pakistan"
 ---
 

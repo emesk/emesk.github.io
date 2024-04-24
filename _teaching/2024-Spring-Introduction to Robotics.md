@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-Spring-Introduction to Robotics
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
-date: 2024-22-3
+date: 2024-08-01
 location: "Haripur, Pakistan"
 ---
 
