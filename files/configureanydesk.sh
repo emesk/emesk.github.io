@@ -51,6 +51,3 @@ sudo systemctl restart anydesk
 echo "AnyDesk installation and configuration completed."
 echo "Unattended access is enabled with the specified password."
 
-# Start AnyDesk
-echo "Starting AnyDesk..."
-anydesk --fullscreen
