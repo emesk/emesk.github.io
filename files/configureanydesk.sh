@@ -26,7 +26,7 @@ sudo apt-get install -y anydesk
 echo "Configuring unattended access..."
 
 # Ensure anydesk service is started
-sudo systemctl start anydesk
+systemctl start anydesk
 
 # Wait for AnyDesk to start up and create initial configuration files
 sleep 10
