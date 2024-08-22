@@ -21,6 +21,8 @@ echo "Hibernation has been enabled."
 # Install required packages
 echo "Installing required packages..."
 apt-get update
+
+dpkg --configure -a
 apt-get install -y acpid pm-utils
 
 # Configure systemd to hibernate after 20 minutes of inactivity
@@ -32,11 +34,6 @@ cat <<EOL > /etc/systemd/sleep.conf
 HibernateDelaySec=20min
 EOL
 
-echo "System configured to hibernate after 20 minutes of inactivity."
-
-# Restart the systemd-logind service to apply changes
-echo "Restarting systemd-logind service..."
-systemctl restart systemd-logind.service
 
 echo "Configuration complete. The system will now hibernate after 20 minutes of inactivity."
 
@@ -152,3 +149,20 @@ systemctl enable clamav-freshclam
 freshclam
 
 echo "Setup complete. The system is now configured to block cryptocurrency mining."
+
+echo "System configured to hibernate after 20 minutes of inactivity."
+
+
+# Define the current and new username
+OLD_USER="sohailkhan"  # Replace with the current username
+NEW_USER="user"             # Replace with the new username
+
+# Rename the user
+sudo usermod -l "$NEW_USER" "$OLD_USER"
+
+# Rename the home directory
+sudo usermod -d /home/"$NEW_USER" -m "$NEW_USER"
+
+# Restart the systemd-logind service to apply changes
+echo "Restarting systemd-logind service..."
+systemctl restart systemd-logind.service

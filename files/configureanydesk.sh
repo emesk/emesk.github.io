@@ -51,4 +51,4 @@ echo "Unattended access is enabled with the specified password."
 
 # Start AnyDesk
 echo "Starting AnyDesk..."
-anydesk &
+anydesk --fullscreen
