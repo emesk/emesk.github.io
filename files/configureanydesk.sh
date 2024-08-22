@@ -45,7 +45,7 @@ sudo systemctl enable anydesk
 
 # Restart AnyDesk service to apply changes
 echo "Restarting AnyDesk service..."
-sudo systemctl restart anydesk
+systemctl restart anydesk
 
 # Confirm installation
 echo "AnyDesk installation and configuration completed."
