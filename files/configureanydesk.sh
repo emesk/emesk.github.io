@@ -22,5 +22,5 @@ sudo apt-get update
 echo "Installing AnyDesk..."
 sudo apt-get install -y anydesk
 
-
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 
