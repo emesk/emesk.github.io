@@ -6,18 +6,20 @@ sudo apt-get remove --purge -y anydesk
 sudo rm -rf /etc/anydesk
 sudo rm -rf ~/.anydesk
 
-# Update package list
-echo "Updating package list..."
-sudo apt-get update -y
-
 # Add AnyDesk GPG key and repository
 echo "Adding AnyDesk repository..."
-wget -qO - https://[Log in to view URL] | sudo apt-key add -
-echo "deb http://[Log in to view URL] all main" | sudo tee /etc/apt/sources.list.d/anydesk.list
+
+# Add the AnyDesk GPG key
+wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add -
+
+# Add the AnyDesk repository
+echo "deb http://deb.anydesk.com/ all main" | sudo tee /etc/apt/sources.list.d/anydesk.list
+
+# Update package list
+sudo apt-get update
 
 # Install AnyDesk
 echo "Installing AnyDesk..."
-sudo apt-get update -y
 sudo apt-get install -y anydesk
 
 # Enable and configure unattended access
