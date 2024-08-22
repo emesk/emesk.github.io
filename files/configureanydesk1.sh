@@ -1,3 +1,6 @@
+# Enable and configure unattended access
+echo "Configuring unattended access..."
+
 # Ensure anydesk service is started
 systemctl start anydesk
 
