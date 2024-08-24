@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo dpkg --configure -a
+
 # Uninstall AnyDesk if it is already installed
 echo "Uninstalling AnyDesk if present..."
 sudo apt-get remove --purge -y anydesk
