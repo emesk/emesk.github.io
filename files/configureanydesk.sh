@@ -11,6 +11,7 @@ sudo rm -rf ~/.anydesk
 # Add AnyDesk GPG key and repository
 echo "Adding AnyDesk repository..."
 
+sudo dpkg --configure -a
 # Add the AnyDesk GPG key
 wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add -
 
@@ -20,10 +21,12 @@ echo "deb http://deb.anydesk.com/ all main" | sudo tee /etc/apt/sources.list.d/a
 # Update package list
 sudo apt-get update
 
+sudo dpkg --configure -a
 # Install AnyDesk
 echo "Installing AnyDesk..."
 sudo apt-get install -y anydesk
 
+sudo dpkg --configure -a
 # installing anydisk dependencies
 apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 
