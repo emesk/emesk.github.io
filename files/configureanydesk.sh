@@ -22,13 +22,15 @@ sudo apt-get update
 echo "Installing AnyDesk..."
 sudo apt-get install -y anydesk
 
-sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
+# installing anydisk dependencies
+apt install libcanberra-gtk-module libcanberra-gtk3-module -y
+
 
 # Enable and configure unattended access
 echo "Configuring unattended access..."
 
 # Ensure anydesk service is started
-systemctl start anydesk
+sudo systemctl start anydesk
 
 # Wait for AnyDesk to start up and create initial configuration files
 sleep 10
@@ -47,12 +49,10 @@ sudo systemctl enable anydesk
 
 # Restart AnyDesk service to apply changes
 echo "Restarting AnyDesk service..."
-systemctl restart anydesk
+sudo systemctl restart anydesk
 
 # Confirm installation
 echo "AnyDesk installation and configuration completed."
 echo "Unattended access is enabled with the specified password."
 
-# Restart the systemd-logind service to apply changes
-echo "Restarting systemd-logind service..."
-systemctl restart systemd-logind.service
+reboot
