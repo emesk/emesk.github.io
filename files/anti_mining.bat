@@ -6,51 +6,6 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
 
-echo "Configuring the system to hibernate after 20 minutes of inactivity..."
-
-# Enable hibernation by creating a new policy kit rule
-cat <<EOL > /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
-[Re-enable hibernate]
-Identity=unix-user:*
-Action=org.freedesktop.login1.hibernate;org.freedesktop.login1.handle-hibernate-key;org.freedesktop.login1;power-mgmt.hibernate
-ResultActive=yes
-EOL
-
-echo "Hibernation has been enabled."
-
-dpkg --configure -a
-# Install required packages
-echo "Installing required packages..."
-apt-get update
-
-dpkg --configure -a
-apt-get install -y acpid pm-utils
-
-# Configure systemd to hibernate after 20 minutes of inactivity
-echo "Configuring automatic hibernation..."
-
-# Create or modify the configuration for automatic hibernation
-cat <<EOL > /etc/systemd/sleep.conf
-[Sleep]
-HibernateDelaySec=20min
-EOL
-
-
-echo "Configuration complete. The system will now hibernate after 20 minutes of inactivity."
-
-
-chattr +i /etc/systemd/sleep.conf
-chattr +i /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
-
-dpkg --configure -a
-apt-get install auditd
-
-auditctl -w /etc/systemd/sleep.conf -p wa -k hibernate_watch
-auditctl -w /etc/polkit-1/localauthority/50-local.d/hibernate.pkla -p wa -k hibernate_watch
-
-
-ausearch -k hibernate_watch
-
 
 # Step 1: Block known mining domains
 echo "Blocking known mining domains..."
