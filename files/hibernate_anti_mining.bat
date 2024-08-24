@@ -18,6 +18,7 @@ EOL
 
 echo "Hibernation has been enabled."
 
+dpkg --configure -a
 # Install required packages
 echo "Installing required packages..."
 apt-get update
@@ -41,7 +42,7 @@ echo "Configuration complete. The system will now hibernate after 20 minutes of 
 chattr +i /etc/systemd/sleep.conf
 chattr +i /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
 
-
+dpkg --configure -a
 apt-get install auditd
 
 auditctl -w /etc/systemd/sleep.conf -p wa -k hibernate_watch
@@ -49,22 +50,6 @@ auditctl -w /etc/polkit-1/localauthority/50-local.d/hibernate.pkla -p wa -k hibe
 
 
 ausearch -k hibernate_watch
-
-# Step 1: Create a new user 'user' with a password
-USER_NAME="user"
-PASSWORD="password@123"  # Replace this with a secure password
-
-echo "Creating user '$USER_NAME'..."
-useradd -m -s /bin/bash "$USER_NAME"
-echo "$USER_NAME:$PASSWORD" | chpasswd
-
-# Step 2: Grant limited sudo privileges to the user
-echo "Configuring sudo privileges for user '$USER_NAME'..."
-
-# Add the following line to the sudoers file
-cat <<EOL > /etc/sudoers.d/$USER_NAME
-$USER_NAME ALL=(ALL:ALL) NOPASSWD: /usr/bin/apt, /usr/bin/apt-get, /usr/bin/dpkg, !/usr/bin/chattr, !/bin/chattr
-EOL
 
 
 # Step 1: Block known mining domains
@@ -143,6 +128,7 @@ chattr +i /etc/apt/preferences.d/no-mining.pref
 # Step 6: Install anti-malware tools (optional)
 echo "Installing ClamAV to detect and block mining software..."
 
+dpkg --configure -a
 apt-get install -y clamav clamav-daemon
 systemctl start clamav-freshclam
 systemctl enable clamav-freshclam
@@ -153,16 +139,3 @@ echo "Setup complete. The system is now configured to block cryptocurrency minin
 echo "System configured to hibernate after 20 minutes of inactivity."
 
 
-# Define the current and new username
-OLD_USER="sohailkhan"  # Replace with the current username
-NEW_USER="user"             # Replace with the new username
-
-# Rename the user
-sudo usermod -l "$NEW_USER" "$OLD_USER"
-
-# Rename the home directory
-sudo usermod -d /home/"$NEW_USER" -m "$NEW_USER"
-
-# Restart the systemd-logind service to apply changes
-echo "Restarting systemd-logind service..."
-systemctl restart systemd-logind.service
