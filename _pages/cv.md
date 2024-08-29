@@ -33,8 +33,8 @@ redirect_from:
     <div class="container">
       <section>
         <h2>Resume</h2>
-        <iframe src="https://drive.google.com/file/d/1uuKaAxrdVAZjQAFWv2XpMHTgSRrBYanh/preview" allow="autoplay"></iframe><br />
-        <a href="https://drive.google.com/u/0/uc?id=1uuKaAxrdVAZjQAFWv2XpMHTgSRrBYanh&export=download" target="_self">Download resume.</a><br />
+        <iframe src="https://drive.google.com/file/d/1Kr6SqPWqH-njqUlzKtY_DoKM891dIuFh/preview" allow="autoplay"></iframe><br />
+        <a href="https://drive.google.com/file/d/1Kr6SqPWqH-njqUlzKtY_DoKM891dIuFh&export=download" target="_self">Download academic resume.</a><br />
       </section>
     </div>
   </body>
