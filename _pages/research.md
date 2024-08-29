@@ -7,6 +7,7 @@ redirect_from:
   - /research
 ---
 
+**Optimization and Control in Energy Systems**  
 
 **A Distributed Modular Co-simulation Platform for Local Energy Communities with Encapsulated Dynamics**  
 Peer-to-Peer energy trading, energy sharing, self-optimization, or grid-supporting behavior are expected to become essential applications for energy communities and their participants. Due to the high complexity of physical and virtual energy flows, financial flows, and the optimization of controllable devices within a community, automated (digital) solutions are needed to handle these requirements.
@@ -33,6 +34,15 @@ Positions available: 1 Master thesis & 1 BS thesis.
 Industrial partner: Austrian Institute of Technology  
 [More details](http://emesk.github.io/files/insems.pdf)
 
+**High Performance Computing**
+
+**Integration of Open Source Billing Platform with Hypercoverged Infrastructure such as Proxmox**  
+Positions available: 1 BS thesis.  
+Industrial partner: Forbmax  
+
+**Hosting web-services and CUDA Labs from Kubernetes Cluster with Aggregation of multiple GPUs**  
+Positions available: 1 BS thesis.  
+Industrial partner: Forbmax   
 
 
 
