@@ -10,8 +10,7 @@ redirect_from:
 **Optimization and Control in Energy Systems**  
 
 **A Distributed Modular Co-simulation Platform for Local Energy Communities with Encapsulated Dynamics**  
-Peer-to-Peer energy trading, energy sharing, self-optimization, or grid-supporting behavior are expected to become essential applications for energy communities and their participants. Due to the high complexity of physical and virtual energy flows, financial flows, and the optimization of controllable devices within a community, automated (digital) solutions are needed to handle these requirements.
-More details.  
+Peer-to-Peer energy trading, energy sharing, self-optimization, or grid-supporting behavior are expected to become essential applications for energy communities and their participants. Due to the high complexity of physical and virtual energy flows, financial flows, and the optimization of controllable devices within a community, automated (digital) solutions are needed to handle these requirements.  
 Positions available: 2 Master thesis & 2 BS thesis.  
 Industrial partner: Austrian Institute of Technology.  
 [More details](http://emesk.github.io/files/local_energy_communities.pdf)
@@ -24,7 +23,7 @@ Industrial partner: Coventry University, UK, MIRA research center, UK
 
 **Optimal control of an aggregate energy storage digital twin model of EV fleet for grid support**  
 Digital twin for fleet of electric vehicles that can simulate an aggregate battery storage model & EV integrated can be supported by the grid services provided by this digital twin model.  
-![The image is not found](research_plan.png)  
+![The image is not found](http://emesk.github.io/files/research_plan.png)  
 Positions available: 1 Master thesis & 1 BS thesis.  
 Industrial partner: Coventry University, UK, MIRA research center, UK    
 [More details](http://emesk.github.io/files/EV_fleet_aggregate_control.pdf)
