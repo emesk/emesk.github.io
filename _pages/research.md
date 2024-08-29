@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-<b><u>Optimization and Control in Energy Systems</u></b>   
+<b><u>Optimization and Control in Energy Systems and AI</u></b>   
 
 Note: Interested students may send their short proposal (for BS projects, team members with individual GPA of each) by email to: sohaildotkhan@spcai.paf-iast.edu.pk (remove "dot" from email) with reference number of position mentioned as e.g., [Ref:2024-1] in the email subject. Looking forward!    
 
