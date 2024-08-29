@@ -9,7 +9,7 @@ redirect_from:
 
 <b><u>Optimization and Control in Energy Systems and AI</u></b>   
 
-Note: Interested students may send their short proposal (for BS projects, team members with individual GPA of each) by email to: sohaildotkhan@spcai.paf-iast.edu.pk (remove "dot" from email) with reference number of position mentioned as e.g., [Ref:2024-1] in the email subject. Looking forward!    
+Note: Interested students may send their short proposal (for BS projects, team members with individual GPA of each) by email to: sohaildotkhan@spcai.paf-iast.edu.pk (remove "dot" from email) with reference number of position mentioned as e.g., Ref:2024-1 in the email subject. Looking forward!    
 
 **A Distributed Modular Co-simulation Platform for Local Energy Communities with Encapsulated Dynamics (Ref:2024-1)**  
 Peer-to-Peer energy trading, energy sharing, self-optimization, or grid-supporting behavior are expected to become essential applications for energy communities and their participants. Due to the high complexity of physical and virtual energy flows, financial flows, and the optimization of controllable devices within a community, automated (digital) solutions are needed to handle these requirements.  
