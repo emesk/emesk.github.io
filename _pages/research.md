@@ -48,14 +48,15 @@ Industrial partner: Cyantech
 
 <b><u>PhD Positions</u></b>  
 
-Dr. Khan is HEC recognized PhD Supervisor who is looking for self/organization funded PhD positions.
+Dr. Khan is HEC recognized PhD Supervisor, accepting self/organization funded proposals for the following PhD positions at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology.  
 
 **On the Use of Reinforcement Learning Techniques of Advanced Distribution Management Systems with Policy Gradients**  
 This research will investigate how policy gradient-based RL algorithms can be leveraged to improve decision-making processes within ADMS, with a particular focus on real-time optimization tasks such as load balancing, voltage regulation, and fault management. By directly learning optimal policies from data through interaction with the environment, policy gradient methods offer a promising approach to address the dynamic and stochastic nature of distribution networks. The study will involve the development and simulation of novel RL-based models, followed by validation using real-world data and scenarios. The outcome of this research has the potential to significantly advance the state-of-the-art in smart grid management, offering more adaptive, scalable, and efficient solutions for distribution network operators.  
+Jointly supervised by: University of South Wales, UK  
 
 **Improvement of Hosting Capacity in Unbalanced Distribution Grids by Topology Control Activated Using Reinforcement Learning Agents**  
 The proposed study aims to address these challenges by leveraging RL techniques to dynamically manage grid topology, optimizing the configuration of network switches and reclosers in real-time. RL agents will learn to identify optimal topology changes that enhance grid stability and hosting capacity, particularly in unbalanced networks where phase imbalances can lead to significant operational issues. The research will develop and test RL-based control strategies in simulated environments, with validation against real-world grid data and scenarios. The anticipated outcomes of this research include the development of intelligent, adaptive control strategies that significantly improve the hosting capacity of unbalanced distribution grids, thereby supporting the integration of higher levels of renewable energy and improving overall grid resilience and efficiency.  
-
+Jointly supervised by: University of South Wales, UK  
 
 <b><u>Previous/Current Research Theses Supervised</u></b>  
 **BS Projects Supervised**  
