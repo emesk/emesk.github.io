@@ -191,7 +191,7 @@ collections:
   projects_completed:
     output: true
     permalink: /:collection/:path/
-  research:
+  open_positions:
     output: true
     permalink: /:collection/:path/
 
@@ -234,10 +234,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _open_positions
   - scope:
       path: ""
-      type: research
+      type: open_positions
     values:
       layout: single
       author_profile: true

@@ -10,7 +10,7 @@ main:
     url: /projects_completed/
 
   - title: "Open Positions"
-    url: /research/
+    url: /open_positions/
 
   - title: "Talks"
     url: /talks/

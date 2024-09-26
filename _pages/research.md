@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Open Projects and Research Positions - 2024"
-permalink: /research/
+title: "Open Projects and Research Positions"
+permalink: /open_positions/
 author_profile: true
 redirect_from:
-  - /research
+  - /open_positions
 ---
 <b><u>Industrial Supported MS Theses</u></b>
 

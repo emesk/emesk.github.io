@@ -2,7 +2,7 @@
 title: "Batterie Stable (National project, Austria)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /research/Research1
+permalink: /open_positions/Research1
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
 location: "Haripur, Pakistan"
 ---
