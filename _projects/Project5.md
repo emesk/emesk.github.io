@@ -2,7 +2,7 @@
 title: "Erigeneia - Enabling rising penetration and added value of photovoltaic generation by implementation of advanced storage systems (EU project)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /projects/Project5
+permalink: /projects_completed/Project5
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
 location: "Haripur, Pakistan"
 ---

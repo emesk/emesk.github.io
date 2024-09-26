@@ -188,7 +188,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  projects:
+  projects_completed:
     output: true
     permalink: /:collection/:path/
   research:
@@ -225,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _projects_completed
   - scope:
       path: ""
-      type: projects
+      type: projects_completed
     values:
       layout: single
       author_profile: true

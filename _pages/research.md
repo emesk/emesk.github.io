@@ -9,7 +9,8 @@ redirect_from:
 <b><u>Industrial Supported MS Theses</u></b>
 
 **Government department of Forestry**  
-Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)
+1. Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)  
+2. Decentralized AI on Edge IoT based network for illegal wood cutting detection in forests based on Tiny ML
 
 **ZeeCube**  
 Here are refined research topics based on the provided points:

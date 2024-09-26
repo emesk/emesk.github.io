@@ -2,7 +2,7 @@
 title: "INTERPLAN -  Integrated operation planning tool (EU project)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /projects/Project4
+permalink: /projects_completed/Project4
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
 location: "Haripur, Pakistan"
 ---

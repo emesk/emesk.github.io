@@ -2,7 +2,7 @@
 title: "DeCAS -  Demonstration of Coordinated Ancillary Services (EU project)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /projects/Project3
+permalink: /projects_completed/Project3
 venue: "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Sino-Pak Center for Artificial Intelligence"
 location: "Haripur, Pakistan"
 ---
