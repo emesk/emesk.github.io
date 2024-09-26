@@ -9,8 +9,7 @@ redirect_from:
 <b><u>Industrial Supported MS Theses</u></b>
 
 **Government department of Forestry**  
-1. Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)  
-2. Decentralized AI on Edge IoT based network for illegal wood cutting detection in forests based on Tiny ML
+1. Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)
 
 **ZeeCube**  
 Here are refined research topics based on the provided points:
@@ -49,13 +48,6 @@ Natural Language Processing (NLP) has made significant strides with the advent o
 The research explores the limitations of current embedding models in handling the linguistic nuances of these regional languages. The lack of large-scale, high-quality datasets and language-specific fine-tuning are identified as major challenges. This thesis proposes novel methods to overcome these challenges by enhancing embedding models specifically for Urdu, Punjabi, Pashto, and Sindhi. The study also involves the creation of a robust dataset that captures the unique characteristics of these languages.  
 The developed models will be evaluated in various NLP tasks, such as text classification, to demonstrate their effectiveness and reliability in processing regional languages. This research will pave the way for better NLP tools that cater to a wider linguistic audience, improving accessibility and representation for underrepresented languages in the digital domain.   
 [More details](http://emesk.github.io/files/sybrid_mbedding_models.pdf)
-
-**Title: Speech to Text – Fine-tuning for Pashto**  
-
-Automatic Speech Recognition (ASR), also known as Speech to Text (STT), has evolved significantly with the development of systems such as Whisper by OpenAI and MMS by Meta. However, these systems face limitations, especially when applied to less represented languages like Pashto, particularly in areas such as vocabulary and accent recognition. This thesis aims to fine-tune existing STT models, specifically for Pashto and its dialects, with a focus on enhancing recognition for specialized vocabulary related to the agriculture sector and improving performance for rural accents.  
-The project will involve the addition of missing domain-specific vocabulary to the models, followed by fine-tuning to lower Word Error Rates (WER) in challenging contexts such as strong accents. The final stage includes model pruning to ensure the system can run efficiently on CPU-based systems, making it accessible for users with limited computational resources.  
-The expected outcome is a fine-tuned Pashto ASR system that improves WER by at least 10% for agricultural terminology. This thesis will contribute to more effective speech recognition for regional languages, particularly for specialized and underrepresented domains.  
-[More details](http://emesk.github.io/files/sybrid_Speech_to_Text_Finetuning_for_Pashto.pdf.pdf)
 
 <b><u>Optimization and Control in Energy Systems and AI</u></b>   
 
@@ -110,22 +102,6 @@ Jointly supervised by: University of South Wales, UK
 The proposed study aims to address these challenges by leveraging RL techniques to dynamically manage grid topology, optimizing the configuration of network switches and reclosers in real-time. RL agents will learn to identify optimal topology changes that enhance grid stability and hosting capacity, particularly in unbalanced networks where phase imbalances can lead to significant operational issues. The research will develop and test RL-based control strategies in simulated environments, with validation against real-world grid data and scenarios. The anticipated outcomes of this research include the development of intelligent, adaptive control strategies that significantly improve the hosting capacity of unbalanced distribution grids, thereby supporting the integration of higher levels of renewable energy and improving overall grid resilience and efficiency.  
 Jointly supervised by: University of South Wales, UK  
 
-<b><u>Previous/Current Research Theses Supervised</u></b>  
-**BS Projects Supervised**  
-* Wheat Market Analysis and Rate Prediction Using AI. 2024  (Supervised) 
-
-**Master Thesis Supervised / Co-Supervised**  
-* “Handwritten Hindko Words Recognition using deep neural network”, 2023. (Supervised)  
-* “Techno-economics of smart energy systems”, 2023. (Supervised)  
-* “Machine Learning for load forecasting in the energy systems” 2023. (Supervised)  
-* “Local Language Voice Recognition and Translation using NLP” 2023 (Co-supervised)  
-* “Research on machine learning techniques used for prediction on business retail” 2023 (Co-supervised)  
-* “Anomaly detection with self-supervised learning using deep edge intelligence (DEI) approach” 2023 (Co-supervised)  
-* “Suspicious Movement Detection in Crowds using AI driven UAS”, 2023 (Co-supervised)  
-* “Use of reinforcement learning in predictive maintenance”, 2023 (Co-supervised)  
-
-**PhD**   
-“An Integrated Approach for Agricultural Monitoring Based on Internet of Things (IoT), Remote Sensing, and Deep Learning”, 2023 (Co-supervised)  
 
 
 
