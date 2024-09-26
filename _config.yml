@@ -191,6 +191,9 @@ collections:
   projects_completed:
     output: true
     permalink: /:collection/:path/
+  projects_in_progress:
+    output: true
+    permalink: /:collection/:path/
   open_positions:
     output: true
     permalink: /:collection/:path/
@@ -229,6 +232,15 @@ defaults:
   - scope:
       path: ""
       type: projects_completed
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _projects_in_progress
+  - scope:
+      path: ""
+      type: projects_in_progress
     values:
       layout: single
       author_profile: true

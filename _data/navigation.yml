@@ -9,6 +9,9 @@ main:
   - title: "Projects (completed)"
     url: /projects_completed/
 
+  - title: "Projects (In Progress)"
+    url: /projects_in_progress/
+
   - title: "Open Positions"
     url: /open_positions/
 
