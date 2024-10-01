@@ -54,62 +54,65 @@ Industrial partner: Austrian Institute of Technology
 
 <b><u>High Performance Computing</u></b> 
 
-**Integration of Open Source Billing Platform with Hypercoverged Infrastructure such as Proxmox, (Ref:2024-5)**  
+**1. Integration of Open Source Billing Platform with Hypercoverged Infrastructure such as Proxmox, (Ref:2024-5)**  
 Positions available: 1 BS thesis.  
 Industrial partner: Forbmax  
 
-**Hosting web-services and CUDA Labs from Kubernetes Cluster with Aggregation of multiple GPUs, (Ref:2024-6)**  
+**2. Hosting web-services and CUDA Labs from Kubernetes Cluster with Aggregation of multiple GPUs, (Ref:2024-6)**  
 Positions available: 1 BS thesis.  
 Industrial partner: Forbmax   
 
-**Development of Wordpress based Online Learning Platform with the integration of Payment Gateways and Examination Platform, (Ref:2024-7)**  
+**3. Development of Wordpress based Online Learning Platform with the integration of Payment Gateways and Examination Platform, (Ref:2024-7)**  
 Positions available: 1 BS thesis.  
 Industrial partner: Cyantech   
 
 **Denim**
-<b>Counter Matching System for Fabrics<b>  
+**1. Counter Matching System for Fabrics** 
+
 Objective: Develop an AI-powered system to scan fabric swatches received from customers and identify the best matching fabric from Denim's existing library. This system will help match key parameters such as color, slub, twill, fabric weight, and stretch. Additionally, the system should be capable of analyzing images sent by customers for accurate fabric matching.
 
-Research Focus:  
-1. AI and image processing techniques for fabric identification.  
-2. Data-driven matching algorithms for textile parameters.  
-3. Integration of color and texture recognition.  
-4. Development of a user-friendly interface for fabric comparison.  
+Research Focus:
+a) AI and image processing techniques for fabric identification.
+b) Data-driven matching algorithms for textile parameters.
+c) Integration of color and texture recognition.
+d) Development of a user-friendly interface for fabric comparison.  
 
 Potential Impact:  
 This system will streamline the process of fabric selection, saving time and reducing errors in customer orders, leading to higher customer satisfaction and optimized inventory usage.
 
-<b>Counter Development System for Fabric Construction<b>  
+**2. Counter Development System for Fabric Construction**
+
 Objective: Create an AI-based system that can suggest the optimal base fabric construction by analyzing the desired outcomes entered by the user, such as stretch, texture, weight, and durability.  
-Research Focus:  
-1. Machine learning models to predict fabric construction.
-2. Predictive modeling based on textile properties. 
-3. Automated suggestions for fabric composition and weave patterns. 
-4. Collaboration with textile experts to develop a comprehensive fabric library.  
+Research Focus:
+a) Machine learning models to predict fabric construction. 
+b) Predictive modeling based on textile properties. 
+c) Automated suggestions for fabric composition and weave patterns. 
+d) Collaboration with textile experts to develop a comprehensive fabric library.  
 
 Potential Impact:  
 The system will reduce the manual effort of fabric construction design, increasing efficiency in fabric development and allowing for faster response to customer demands for new fabric types.  
 
+**3. Slub Pattern Analysis System**
 
-<b>Slub Pattern Analysis System<b>  
 Objective: Build a system that can scan a fabric sample and provide detailed analysis of its slub pattern, including slub length, pause length, and slub thickness, crucial for understanding fabric aesthetics and performance.  
 Research Focus:  
-1. High-resolution image processing and pattern recognition.  
-2. Algorithms for analyzing irregularities in fabric textures.  
-3. Development of robust slub metrics.  
-4. Integration with existing textile quality control systems.
+a) High-resolution image processing and pattern recognition.
+b) Algorithms for analyzing irregularities in fabric textures.
+c) Development of robust slub metrics.
+d) Integration with existing textile quality control systems.
 
 Potential Impact:  
 This project will significantly improve Denim's quality control processes by automating slub pattern detection, ensuring consistency in fabric production and offering better customization options to customers.  
 
-<b>Auto Bleaching System for Denim Garments<b>
+**4. Auto Bleaching System for Denim Garments**
+
 Objective: Design an AI-based auto-bleaching system that can scan the shade of a denim garment and automatically adjust the bleaching process to achieve the desired shade. This system aims to replace the current manual bleaching practices, which are time-consuming and variable.  
 
-Research Focus:  
-1. AI-driven image analysis for accurate shade detection.  
-2. Development of automated bleach application techniques.  
-3. Feedback loops for real-time shade adjustment.  
-4. Integration with existing garment production lines.
+Research Focus:
+a) AI-driven image analysis for accurate shade detection.
+b) Development of automated bleach application techniques.
+c) Feedback loops for real-time shade adjustment.
+d)Integration with existing garment production lines.
 
 Potential Impact:  
 The auto bleaching system will lead to greater precision in achieving desired shades, reducing waste, and making the bleaching process faster and more environmentally friendly, giving Denim a competitive advantage in sustainable fashion.  
