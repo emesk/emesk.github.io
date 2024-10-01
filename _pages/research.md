@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /open_positions
 ---
-<b><u>Industrial Supported MS Theses</u></b>
+<b><u>Industrial Supported BS, MS and PhD research projects</u></b>
 
 **Government department of Forestry**  
 1. Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)
