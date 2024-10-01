@@ -27,8 +27,6 @@ The developed models will be evaluated in various NLP tasks, such as text classi
 
 <b><u>Optimization and Control in Energy Systems and AI</u></b>   
 
-Note: Interested students may send their interest by email to: sohaildotkhan@spcai.paf-iast.edu.pk (remove "dot" from email) with **your CV/CVs attached** and a reference number of position mentioned as e.g., Ref:2024-1 in the email subject. Looking forward!    
-
 **A Distributed Modular Co-simulation Platform for Local Energy Communities with Encapsulated Dynamics (Ref:2024-1)**  
 Peer-to-Peer energy trading, energy sharing, self-optimization, or grid-supporting behavior are expected to become essential applications for energy communities and their participants. Due to the high complexity of physical and virtual energy flows, financial flows, and the optimization of controllable devices within a community, automated (digital) solutions are needed to handle these requirements.  
 Positions available: 2 Master thesis & 2 BS thesis.  
@@ -129,6 +127,7 @@ Jointly supervised by: University of South Wales, UK
 The proposed study aims to address these challenges by leveraging RL techniques to dynamically manage grid topology, optimizing the configuration of network switches and reclosers in real-time. RL agents will learn to identify optimal topology changes that enhance grid stability and hosting capacity, particularly in unbalanced networks where phase imbalances can lead to significant operational issues. The research will develop and test RL-based control strategies in simulated environments, with validation against real-world grid data and scenarios. The anticipated outcomes of this research include the development of intelligent, adaptive control strategies that significantly improve the hosting capacity of unbalanced distribution grids, thereby supporting the integration of higher levels of renewable energy and improving overall grid resilience and efficiency.  
 Jointly supervised by: University of South Wales, UK  
 
+Note: Interested students may send their interest by email to: sohaildotkhan@spcai.paf-iast.edu.pk (remove "dot" from email) with **your CV/CVs attached** and a reference number of position mentioned as e.g., Ref:2024-1 in the email subject. Looking forward!    
 
 
 
