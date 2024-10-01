@@ -11,35 +11,11 @@ redirect_from:
 **Government department of Forestry**  
 1. Identification of Human Settlement and Other Indicators using GIS data for given point on map (Deployment as services on Kubernetes Platform)
 
-**ZeeCube**  
-Here are refined research topics based on the provided points:
-
-1. Predictive Modeling for Saffron Yield in High-Altitude Regions:
-   - Can machine learning models accurately predict saffron yield in high-altitude regions, such as Upper Chitral, based on factors like elevation, planting date, and climatic data?
-
-2. Impact of Climatic Conditions on Saffron Growth and Quality:
-   - How do climatic conditions, including temperature, humidity, and precipitation, affect the growth and quality of saffron bulbs in high-altitude regions, and can machine learning models be used to model these relationships?
-
-3. Predicting Saffron Stigma Characteristics Using Machine Learning:
-   - To what extent can machine learning algorithms predict the size, color, and taste of saffron stigmas based on environmental variables, bulb characteristics, and historical data?
-
-4. Detection of Growth Patterns and Anomalies in Saffron Flower Development:
-   - Are there specific growth patterns or anomalies in saffron flower development that can be detected using machine learning techniques, and how do these patterns correlate with environmental factors?
-
-5. Disease Identification and Classification in Saffron Cultivation:
-   - Can machine learning models effectively identify and classify saffron diseases, such as fungal attacks, based on visual characteristics of the saffron plants and environmental conditions?
-
-6. Optimizing Saffron Planting Schedules with Machine Learning:
-   - How can machine learning algorithms assist in optimizing saffron planting schedules in high-altitude regions to maximize yield and quality while minimizing the risk of adverse climatic conditions?
-
-7. Integration of Data Sources and Sensor Technologies in Saffron Cultivation:
-   - What data sources and sensor technologies can be integrated into the saffron cultivation process to provide real-time information for machine learning models, enabling better decision-making in climate-smart regenerative agriculture?
-
-8. Collaborative Innovations in Saffron Cultivation between ZeeCube and Sino-Pak Center of AI:
-   - In what ways can the collaboration between ZeeCube and the Sino-Pak Center of Artificial Intelligence at PAF-IAST contribute to the development of innovative and sustainable practices for saffron cultivation in challenging high-altitude environments?
-
-9. AI and Machine Learning for Sustainable Saffron Cultivation:
-   - How can the integration of AI and machine learning techniques support the long-term sustainability and profitability of saffron cultivation in Upper Chitral and similar regions?
+**ZeeCube**
+1.	Machine Learning for Saffron Growth and Disease Detection in High-Altitude Regions
+2.	Predictive Modeling of Saffron Stigma Characteristics Using AI and Sensor Technologies
+3.	AI-Driven Predictive Modeling for Saffron Yield and Growth Optimization
+4.	AI-Powered Innovations in Saffron Cultivation: Collaborative Approaches to Sustainability
 
 **Sybrid**  
 **Title: Development of Embedding Models for Local Languages (Urdu, Punjabi, Pashto, Sindhi)** 
@@ -89,6 +65,54 @@ Industrial partner: Forbmax
 **Development of Wordpress based Online Learning Platform with the integration of Payment Gateways and Examination Platform, (Ref:2024-7)**  
 Positions available: 1 BS thesis.  
 Industrial partner: Cyantech   
+
+**Denim**
+<b>Counter Matching System for Fabrics<b>  
+Objective: Develop an AI-powered system to scan fabric swatches received from customers and identify the best matching fabric from Denim's existing library. This system will help match key parameters such as color, slub, twill, fabric weight, and stretch. Additionally, the system should be capable of analyzing images sent by customers for accurate fabric matching.
+
+Research Focus:  
+1. AI and image processing techniques for fabric identification.  
+2. Data-driven matching algorithms for textile parameters.  
+3. Integration of color and texture recognition.  
+4. Development of a user-friendly interface for fabric comparison.  
+
+Potential Impact:  
+This system will streamline the process of fabric selection, saving time and reducing errors in customer orders, leading to higher customer satisfaction and optimized inventory usage.
+
+<b>Counter Development System for Fabric Construction<b>  
+Objective: Create an AI-based system that can suggest the optimal base fabric construction by analyzing the desired outcomes entered by the user, such as stretch, texture, weight, and durability.  
+Research Focus:  
+1. Machine learning models to predict fabric construction.
+2. Predictive modeling based on textile properties. 
+3. Automated suggestions for fabric composition and weave patterns. 
+4. Collaboration with textile experts to develop a comprehensive fabric library.  
+
+Potential Impact:  
+The system will reduce the manual effort of fabric construction design, increasing efficiency in fabric development and allowing for faster response to customer demands for new fabric types.  
+
+
+<b>Slub Pattern Analysis System<b>  
+Objective: Build a system that can scan a fabric sample and provide detailed analysis of its slub pattern, including slub length, pause length, and slub thickness, crucial for understanding fabric aesthetics and performance.  
+Research Focus:  
+1. High-resolution image processing and pattern recognition.  
+2. Algorithms for analyzing irregularities in fabric textures.  
+3. Development of robust slub metrics.  
+4. Integration with existing textile quality control systems.
+
+Potential Impact:  
+This project will significantly improve Denim's quality control processes by automating slub pattern detection, ensuring consistency in fabric production and offering better customization options to customers.  
+
+<b>Auto Bleaching System for Denim Garments<b>
+Objective: Design an AI-based auto-bleaching system that can scan the shade of a denim garment and automatically adjust the bleaching process to achieve the desired shade. This system aims to replace the current manual bleaching practices, which are time-consuming and variable.  
+
+Research Focus:  
+1. AI-driven image analysis for accurate shade detection.  
+2. Development of automated bleach application techniques.  
+3. Feedback loops for real-time shade adjustment.  
+4. Integration with existing garment production lines.
+
+Potential Impact:  
+The auto bleaching system will lead to greater precision in achieving desired shades, reducing waste, and making the bleaching process faster and more environmentally friendly, giving Denim a competitive advantage in sustainable fashion.  
 
 <b><u>PhD Positions</u></b>  
 
