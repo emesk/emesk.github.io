@@ -8,13 +8,56 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+# 👋 Hello, I'm Dr. Sohail Khan
 
-Accomplished power system professional with 14 years of expertise in energy system operation and control, experienced through successful EU projects focused on renewables integration and capacity planning. Proficient in stability analysis utilizing data analytics and machine learning, adept at handling intricate energy challenges with the aid of digital twins.
+## 🌟 Power Systems Expert | ⚡ Renewable Energy Specialist | 🤖 AI Researcher
 
-Since 2022, I have led the academic and organizational activities at Sino-Pak Center for Artificial Intelligence at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology.  I have been actively working on using AI for energy forecasting, machine learning for dealing with the uncertainty in energy systems and cross-cutting applications using AI for decision support in urban planning, agriculture, transport, and security related areas.
+### About Me 🎯
 
-[Google Scholar](https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en)
+I'm an electrical engineer with 14+ years of experience in power systems and renewable energy integration. Currently working as a Senior Consultant at MRC Consultants, I help organizations optimize their energy systems and transition to sustainable solutions.
+
+### What I Do 💼
+
+- 🔋 Power System Analysis & Optimization
+- 🌱 Renewable Energy Integration
+- 🤖 AI Applications in Energy Systems
+- 🌐 Smart Grid Technologies
+- 📊 Energy Market Modeling
+
+### Experience Highlights 🚀
+
+- 🏢 Senior Consultant @ MRC Consultants
+- 🔬 Scientist @ Austrian Institute of Technology
+- 🎓 Director @ Sino-Pak Center for AI
+- 📚 PhD from Technical University of Vienna
+
+### Tools & Technologies 🛠️
+
+- DIgSILENT PowerFactory
+- NEPLAN
+- PSS/E
+- PSCAD
+- Python for Energy Systems
+- Machine Learning Frameworks
+
+### Recent Projects 📌
+
+- 💡 Kenya Power System Loss Reduction
+- 🌿 Decentralized AI for Environmental Monitoring
+- 🔋 Federated Learning for Power Systems
+- ⚡ HVAC Predictive Maintenance
+
+### Languages 🗣️
+
+- English (Professional)
+- German (B1)
+- Urdu (Native)
+
+### Let's Connect! 🤝
+
+📧 [sohail.khan@gmx.net](mailto:sohail.khan@gmx.net)
+🔗 [LinkedIn](https://www.linkedin.com/in/sohail-khan/)
+📚 [Google Scholar](https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en)
 
 [Calendar](https://bit.ly/3ykwDyC)
 
