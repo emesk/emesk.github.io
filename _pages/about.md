@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "👋 Hello, I'm Sohail"
 excerpt: "Power System Engineer with Passion for AI"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# 👋 Hello, I'm Sohail
 
 ## 🌟 Power Systems Expert | ⚡ Renewable Energy Specialist | 🤖 AI Researcher
 
