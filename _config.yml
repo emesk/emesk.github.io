@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emesk/emesk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Sohail Khan, Associate Professor and Senior Faculty at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology"
+seo_description          : "Site for Sohail Khan, Associate Professor and Senior Faculty at Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology, Senior Consultant at MRC, Seureca, Violia Group"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Electrical Engineering (Power Systems) | Energy Data Analyst | Team Mentor | Aspiring Energy Data Scientist"
   location         :
-  employer         : "Associate Professor at <br> Pak-Austria Fachhochschule <br> Sino-Pak Center for AI <br> Pakistan"
+  employer         : "Senior Consultant at MRC, Seureca, Veolia <br> Associate Professor at <br> Pak-Austria Fachhochschule <br> Sino-Pak Center for AI <br> Pakistan"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=skUXofwAAAAJ&hl=en"
   email            : "sohail.khan@gmx.net"
