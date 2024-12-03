@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Power Systems Engineer with Passion for AI"
 excerpt: "Power System Engineer with Passion for AI"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hello, I'm Dr. Sohail Khan
+# 👋 Hello, I'm Sohail
 
 ## 🌟 Power Systems Expert | ⚡ Renewable Energy Specialist | 🤖 AI Researcher
 
